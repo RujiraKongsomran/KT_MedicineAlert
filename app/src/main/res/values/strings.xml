@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KT_MedicineAlert</string>
+    <string name="add_button">Add Button</string>
 </resources>

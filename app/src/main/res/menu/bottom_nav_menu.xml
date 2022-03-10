@@ -9,6 +9,9 @@
         android:icon="@drawable/ic_box"
         android:title="กล่องยา" />
     <item
+        android:id="@+id/placeholder"
+        android:title="" />
+    <item
         android:id="@+id/miAlert"
         android:icon="@drawable/ic_alert"
         android:title="แจ้งเตือน" />
